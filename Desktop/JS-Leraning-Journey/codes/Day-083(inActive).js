@@ -1,0 +1,1 @@
+//all day outside home but it's not problem I keep going 

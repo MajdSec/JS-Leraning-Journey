@@ -1,0 +1,1 @@
+//Serach and read and some watch about network (ip/DHCD/MAC/LAN/WAN) noraml search but..... this just start.
