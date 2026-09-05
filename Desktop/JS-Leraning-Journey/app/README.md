@@ -2,7 +2,7 @@
 
 # whem start : last week in 2025
 
-# Identification: hello my name is Macit I start programming yesterday you will be with me on a journey to learn JS(JavaScript)
+# Identification: hello my name is majd I start programming yesterday you will be with me on a journey to learn JS(JavaScript)
 
 # 30/12 Day 1
 
