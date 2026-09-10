@@ -1,7 +1,7 @@
 
 # My <big>**JS**</big> Learning Journey
 
-I look forward to sharing my JavaScript (<big>**JS**</big>) learning journey with you. This was my very first step into the world of writing code after completing the **CS50x** course. 
+I look forward to sharing my JavaScript (<big>**JS**</big>) learning journey with you. This was my very first step into the world of writing code after completing the  [**CS50x**](https://github.com/MajdSec/cs50x) course. 
 
 - **Start Date:** Last week of 2025
 - **End Date:** April 2026
