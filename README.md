@@ -2,8 +2,8 @@
 
 - **Start Date:** Last week of 2025
 - **End Date:** April 2026
-- **Learning Source:** [Elzero Web School - JavaScript Bootcamp](https://elzero.org/category/courses/javascript-bootcamp/)
-- 
+- **Learning Source:** [Elzero Web School - JavaScript Bootcamp](https://youtu.be/GM6dQBmc-Xg)
+  
 # My <big>**JS**</big> Learning Journey
 
 I look forward to sharing my JavaScript (<big>**JS**</big>) learning journey with you. This was my very first step into the world of writing code after completing the **CS50x** course. 
