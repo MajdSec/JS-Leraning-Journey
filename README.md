@@ -1,15 +1,13 @@
-# My Journey in Learning JS
 
-- **Start Date:** Last week of 2025
-- **End Date:** April 2026
-- **Learning Source:** [Elzero Web School - JavaScript Bootcamp](https://youtu.be/GM6dQBmc-Xg)
-  
 # My <big>**JS**</big> Learning Journey
 
 I look forward to sharing my JavaScript (<big>**JS**</big>) learning journey with you. This was my very first step into the world of writing code after completing the **CS50x** course. 
 
+- **Start Date:** Last week of 2025
+- **End Date:** April 2026
+
 The journey began with Osama Elzero's channel, a highly renowned and famous programmer in the Arab world. 
-🔗 **Learning Source:** [Elzero Web School](https://www.youtube.com/c/ElzeroInfo)
+🔗 **Learning Source:** [Elzero Web School - JavaScript Bootcamp](https://youtu.be/GM6dQBmc-Xg)
 
 ### 🧠 What I Learned
 Throughout my journey, I learned many core concepts in <big>**JS**</big>, including:
